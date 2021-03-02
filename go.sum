@@ -163,6 +163,8 @@ github.com/caarlos0/ctrlc v1.0.0 h1:2DtF8GSIcajgffDFJzyG15vO+1PuBWOMUdFut7NnXhw=
 github.com/caarlos0/ctrlc v1.0.0/go.mod h1:CdXpj4rmq0q/1Eb44M9zi2nKB0QraNKuRGYGrrHhcQw=
 github.com/caarlos0/go-shellwords v1.0.11 h1:AwPv3JZPpE2YVS51HQ8IYt1Hobtmzlzw4K6ygDOsDrc=
 github.com/caarlos0/go-shellwords v1.0.11/go.mod h1:EZzvwXDESEeg03EKmM+RmDnNOPKG4lLtQsUlTZDWQ8Y=
+github.com/caarlos0/testfs v0.4.3 h1:q1zEM5hgsssqWanAfevJYYa0So60DdK6wlJeTc/yfUE=
+github.com/caarlos0/testfs v0.4.3/go.mod h1:bRN55zgG4XCUVVHZCeU+/Tz1Q6AxEJOEJTliBy+1DMk=
 github.com/campoy/unique v0.0.0-20180121183637-88950e537e7e h1:V9a67dfYqPLAvzk5hMQOXYJlZ4SLIXgyKIE+ZiHzgGQ=
 github.com/campoy/unique v0.0.0-20180121183637-88950e537e7e/go.mod h1:9IOqJGCPMSc6E5ydlp5NIonxObaeu/Iub/X03EKPVYo=
 github.com/cavaliercoder/go-cpio v0.0.0-20180626203310-925f9528c45e h1:hHg27A0RSSp2Om9lubZpiMgVbvn39bsUmW9U5h0twqc=
@@ -401,8 +403,12 @@ github.com/goreleaser/chglog v0.1.2 h1:tdzAb/ILeMnphzI9zQ7Nkq+T8R9qyXli8GydD8plF
 github.com/goreleaser/chglog v0.1.2/go.mod h1:tTZsFuSZK4epDXfjMkxzcGbrIOXprf0JFp47BjIr3B8=
 github.com/goreleaser/fileglob v0.4.0 h1:bZfPopbWScZi0MrsV+9YcJ0dN8w5OV4OwjDzrHI1Zyw=
 github.com/goreleaser/fileglob v0.4.0/go.mod h1:kNcPrPzjCp+Ox3jmXLU5QEsjhqrtLBm6OnXAif8KRl8=
+github.com/goreleaser/fileglob v1.2.0 h1:OErqbdzeg/eibfDGPHDQDN8jL5u1jNyxA5IQzNPLLoU=
+github.com/goreleaser/fileglob v1.2.0/go.mod h1:rFyb2pXaK3YdnYnSjn6lifw0h2Q6s8OfOsx6I6bXkKE=
 github.com/goreleaser/nfpm/v2 v2.2.4 h1:ecw+KrCutS/OS93doMEVggjbybSlFdPXnyiL0Hh/4G8=
 github.com/goreleaser/nfpm/v2 v2.2.4/go.mod h1:d+D1TGGcyZjAIv0d7a5bQrcdEJcKXrUjQuk45H02bD8=
+github.com/goreleaser/nfpm/v2 v2.3.1 h1:WcG8g14PoOslqlxsZqu4Zse6P6c0G8gy8YvIjO561f8=
+github.com/goreleaser/nfpm/v2 v2.3.1/go.mod h1:jyT97Csl87+kXNr8xc1fDcRGcI/ulxQIz5MdqC2Vrro=
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gostaticanalysis/analysisutil v0.0.0-20190318220348-4088753ea4d3/go.mod h1:eEOZF4jCKGi+aprrirO9e7WKB3beBRtWgqGunKl6pKE=
@@ -410,6 +416,7 @@ github.com/gostaticanalysis/analysisutil v0.0.3 h1:iwp+5/UAyzQSFgQ4uR2sni99sJ8Eo
 github.com/gostaticanalysis/analysisutil v0.0.3/go.mod h1:eEOZF4jCKGi+aprrirO9e7WKB3beBRtWgqGunKl6pKE=
 github.com/gostaticanalysis/analysisutil v0.1.0 h1:E4c8Y1EQURbBEAHoXc/jBTK7Np14ArT8NPUiSFOl9yc=
 github.com/gostaticanalysis/analysisutil v0.1.0/go.mod h1:dMhHRU9KTiDcuLGdy87/2gTR8WruwYZrKdRq9m1O6uw=
+github.com/gostaticanalysis/analysisutil v0.4.1 h1:/7clKqrVfiVwiBQLM0Uke4KvXnO6JcCTS7HwF2D6wG8=
 github.com/gostaticanalysis/analysisutil v0.4.1/go.mod h1:18U/DLpRgIUd459wGxVHE0fRgmo1UgHDcbw7F5idXu0=
 github.com/gostaticanalysis/analysisutil v0.6.1 h1:/1JkoHe4DVxur+0wPvi26FoQfe1E3ZGqIXS3aaSLiaw=
 github.com/gostaticanalysis/analysisutil v0.6.1/go.mod h1:18U/DLpRgIUd459wGxVHE0fRgmo1UgHDcbw7F5idXu0=
@@ -633,6 +640,7 @@ github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d/go.mod h1:c3At6R
 github.com/prometheus/procfs v0.0.0-20190507164030-5867b95ac084/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
 github.com/quasilyte/go-consistent v0.0.0-20190521200055-c6f3937de18c/go.mod h1:5STLWrekHfjyYwxBRVRXNOSewLJ3PWfDJd1VyTS21fI=
+github.com/quasilyte/go-ruleguard v0.2.1-0.20201030093329-408e96760278 h1:5gcJ7tORNCNB2QjOJF+MYjzS9aiWpxhP3gntf7RVrOQ=
 github.com/quasilyte/go-ruleguard v0.2.1-0.20201030093329-408e96760278/go.mod h1:2RT/tf0Ce0UDj5y243iWKosQogJd8+1G3Rs2fxmlYnw=
 github.com/quasilyte/go-ruleguard v0.2.1 h1:56eRm0daAyny9UhJnmtJW/UyLZQusukBAB8oT8AHKHo=
 github.com/quasilyte/go-ruleguard v0.2.1/go.mod h1:hN2rVc/uS4bQhQKTio2XaSJSafJwqBUWWwtssT3cQmc=
